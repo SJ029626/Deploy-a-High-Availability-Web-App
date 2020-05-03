@@ -16,7 +16,7 @@
 
 Just run;
 ```sh
-> ./create.sh UdagramApp infrastructure_networkandserver.yml infrastructure_networkandserver.json
+> ./create.sh UdacityUdaApp infrastructure_networkandserver.yml infrastructure_networkandserver.json
 ```
 
 Also, Check out the running website:
